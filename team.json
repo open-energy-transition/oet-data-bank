@@ -99,15 +99,26 @@
     "country": "Italy"
   },
   {
-    "name": "Dr. Manish Ram",
-    "designation": "Advisor Business Development and Fundraising",
+    "name": "Dr. Daniele Lerede",
+    "designation": "Energy Systems Modeller",
     "description": "not necessary",
-    "image_link": "https://openenergytransition.org/assets/img/people/manishram_cropped.jpg",
-    "mail_id": "max.parzen@openenergytransition.org",
-    "redirect_link": "https://www.linkedin.com/in/dr-manish-ram-75b89424/",
+    "image_link": "https://openenergytransition.org/assets/img/people/danielelerede.jpg",
+    "mail_id": "daniele.lerede@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/daniele-lerede-604b84173/",
     "lat": 35.6895,
     "lon": 139.6917,
-    "country": "India"
+    "country": "Italy"
+  },
+  {
+    "name": "Dr. Mario Dzamarija",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/MarioDzamarijaCropped.jpg",
+    "mail_id": "mario.dzamarija@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/mdzzg/",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "Croatia"
   },
   {
     "name": "Lukas Franken",
@@ -187,17 +198,6 @@
     "country": "India"
   },
   {
-    "name": "Dr. Mario Dzamarija",
-    "designation": "Energy Systems Modeller",
-    "description": "not necessary",
-    "image_link": "https://openenergytransition.org/assets/img/people/MarioDzamarijaCropped.jpg",
-    "mail_id": "mario.dzamarija@openenergytransition.org",
-    "redirect_link": "https://www.linkedin.com/in/mdzzg/",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "country": "Croatia"
-  },
-  {
     "name": "Kristijan Faust",
     "designation": "Software Engineer",
     "description": "not necessary",
@@ -209,15 +209,15 @@
     "country": "Croatia"
   },
   {
-    "name": "Dr. Daniele Lerede",
-    "designation": "Energy Systems Modeller",
+    "name": "Jacek Bendig",
+    "designation": "Software Engineer",
     "description": "not necessary",
-    "image_link": "https://openenergytransition.org/assets/img/people/danielelerede.jpg",
-    "mail_id": "daniele.lerede@openenergytransition.org",
-    "redirect_link": "https://www.linkedin.com/in/daniele-lerede-604b84173/",
-    "lat": 35.6895,
-    "lon": 139.6917,
-    "country": "Italy"
+    "image_link": "https://openenergytransition.org/assets/img/people/jacek.jpg",
+    "mail_id": "jacek.bendig@openenergytransition.org",
+    "redirect_link": "https://github.com/jacek-oet",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "country": "Germany"
   },
   {
     "name": "Heba Badawy",
@@ -226,17 +226,6 @@
     "image_link": "https://openenergytransition.org/assets/img/people/badawy.jpeg",
     "mail_id": "badawy.heba@openenergytransition.org",
     "redirect_link": "https://www.linkedin.com/in/heba-badawy",
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "country": "Germany"
-  },
-  {
-    "name": "Jacek Bendig",
-    "designation": "Software Engineer",
-    "description": "not necessary",
-    "image_link": "https://openenergytransition.org/assets/img/people/jacek.jpg",
-    "mail_id": "jacek.bendig@openenergytransition.org",
-    "redirect_link": "https://github.com/jacek-oet",
     "lat": 37.7749,
     "lon": -122.4194,
     "country": "Germany"
