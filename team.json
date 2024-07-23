@@ -217,7 +217,29 @@
     "redirect_link": "https://www.linkedin.com/in/daniele-lerede-604b84173/",
     "lat": 35.6895,
     "lon": 139.6917,
-    "country": "Japan"
+    "country": "Italy"
+  },
+  {
+    "name": "Heba Badawy",
+    "designation": "UX/UI Designer",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/badawy.jpeg",
+    "mail_id": "badawy.heba@openenergytransition.org",
+    "redirect_link": "https://www.linkedin.com/in/heba-badawy",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "country": "Germany"
+  },
+  {
+    "name": "Jacek Bendig",
+    "designation": "Software Engineer",
+    "description": "not necessary",
+    "image_link": "https://openenergytransition.org/assets/img/people/jacek.jpg",
+    "mail_id": "jacek.bendig@openenergytransition.org",
+    "redirect_link": "https://github.com/jacek-oet",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "country": "Germany"
   },
   {
     "name": "John Doe",
