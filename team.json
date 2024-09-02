@@ -216,6 +216,18 @@
     "country": "India"
   },
   {
+    "name": "Daniel Rüdt",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/danielruedt_cropped.jpg",
+    "mail_id": "daniel.ruedt@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/daniel-rdt",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/daniel-rüdt-32565b266/",
+    "country": "Germany"
+  },
+  {
     "name": "Kristijan Faust",
     "designation": "Software Engineer",
     "description": "not necessary",
