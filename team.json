@@ -60,18 +60,6 @@
     "country": "Germany"
   },
   {
-    "name": "Dr. Oleg Lugovoy",
-    "designation": "Senior Energy System Modeller",
-    "description": "another_description",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/oleglugovoy_cropped.jpg",
-    "mail_id": "oleg.lugovoy@openenergytransition.org",
-    "website_link": "",
-    "github_link": "https://github.com/olugovoy",
-    "twitter_link": "",
-    "linkedin_link": "",
-    "country": "United States of America"
-  },
-  {
     "name": "Asst. Prof. Dr. Davide Fioriti",
     "designation": "Expert in Global Energy System Modelling, Co-founder",
     "description": "not necessary",
