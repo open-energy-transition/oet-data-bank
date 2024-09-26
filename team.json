@@ -263,7 +263,18 @@
     "linkedin_link": "https://www.linkedin.com/in/heba-badawy",
     "country": "Germany"
   },
-
+  {
+    "name": "Charlotte Heikendorf",
+    "designation": "Communication & Fundraising",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/profil_billede_Heikendorf.jpg",
+    "mail_id": "charlotte.heikendorf@openenergytransition.org",
+    "website_link": "",
+    "github_link": "",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/charlotte-heikendorf/",
+    "country": "Italy"
+  },
   {
     "name": "Snoopy",
     "designation": "Visionary and Head of Wellbeing",
