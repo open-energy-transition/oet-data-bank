@@ -228,6 +228,18 @@
     "country": "Germany"
   },
   {
+    "name": "Thomas Gilon",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/thomasgilon_cropped.jpg",
+    "mail_id": "thomas.gilon@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/tgilon",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/thomas-gilon/",
+    "country": "France"
+  },
+  {
     "name": "Kristijan Faust",
     "designation": "Software Engineer",
     "description": "not necessary",
