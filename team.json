@@ -108,6 +108,18 @@
     "country": "Italy"
   },
   {
+    "name": "Cristina Ghimbas",
+    "designation": "Operational Support Specialist",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/cristina_ghimbas_cropped.jpg",
+    "mail_id": "cristina.ghimbas@openenergytransition.org",
+    "website_link": "",
+    "github_link": "",
+    "twitter_link": "",
+    "linkedin_link": "",
+    "country": "Romania"
+  },
+  {
     "name": "Lukas Franken",
     "designation": "Senior Energy System Modeller",
     "description": "not necessary",
