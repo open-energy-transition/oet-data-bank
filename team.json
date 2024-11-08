@@ -228,6 +228,18 @@
     "country": "France"
   },
   {
+    "name": "Virio Andreyana",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/virioandreyana.jpg",
+    "mail_id": "virio.andreyana@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/virio-andreyana",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/arsyan-mohamad-virio-andreyana/",
+    "country": "Germany"
+  },
+  {
     "name": "Kristijan Faust",
     "designation": "Software Engineer",
     "description": "not necessary",
@@ -273,6 +285,30 @@
     "github_link": "",
     "twitter_link": "",
     "linkedin_link": "https://www.linkedin.com/in/charlotte-heikendorf/",
+    "country": "Italy"
+  },
+  {
+    "name": "Dr. Jonas Hörsch",
+    "designation": "Senior Energy System Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/jonashoersch_cropped.jpg",
+    "mail_id": "jonas.hoersch@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/coroa",
+    "twitter_link": "",
+    "linkedin_link": "",
+    "country": "Germany"
+  },
+  {
+    "name": "Gianvito Colucci",
+    "designation": "Energy Systems Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/gianvito_colucci_cropped.jpg",
+    "mail_id": "gianvito.colucci@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/gianvito-colucci",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/gianvito-colucci/",
     "country": "Italy"
   },
   {
