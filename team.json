@@ -108,6 +108,18 @@
     "country": "Italy"
   },
   {
+    "name": "Dr. Jonas Hörsch",
+    "designation": "Senior Energy System Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/jonashoersch_cropped.jpg",
+    "mail_id": "jonas.hoersch@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/coroa",
+    "twitter_link": "",
+    "linkedin_link": "",
+    "country": "Germany"
+  },
+  {
     "name": "Cristina Ghimbas",
     "designation": "Operational Support Specialist",
     "description": "not necessary",
@@ -286,18 +298,6 @@
     "twitter_link": "",
     "linkedin_link": "https://www.linkedin.com/in/charlotte-heikendorf/",
     "country": "Italy"
-  },
-  {
-    "name": "Dr. Jonas Hörsch",
-    "designation": "Senior Energy System Modeller",
-    "description": "not necessary",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/jonashoersch_cropped.jpg",
-    "mail_id": "jonas.hoersch@openenergytransition.org",
-    "website_link": "",
-    "github_link": "https://github.com/coroa",
-    "twitter_link": "",
-    "linkedin_link": "",
-    "country": "Germany"
   },
   {
     "name": "Gianvito Colucci",
