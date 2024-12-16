@@ -312,6 +312,30 @@
     "country": "Italy"
   },
   {
+    "name": "Carlos Gaete, PhD.",
+    "designation": "Senior Energy System Modeller",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/carlos_gaete_cropped.jpg",
+    "mail_id": "carlos.gaete@openenergytransition.org",
+    "website_link": "https://www.carlosgaete.com",
+    "github_link": "https://github.com/cdgaete",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/carlosgaete/",
+    "country": "Chile"
+  },
+  {
+    "name": "David Díaz MSc",
+    "designation": "Energy Modeling Specialist",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/daviddiaz_cropped.jpg",
+    "mail_id": "david.diaz@openenergytransition.org",
+    "website_link": "",
+    "github_link": "",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/david-diaz-ramos-81bb73102/",
+    "country": "El Salvador",
+  },
+  {
     "name": "Snoopy",
     "designation": "Visionary and Head of Wellbeing",
     "description": "A highly skilled engineer with expertise in various programming languages.",
