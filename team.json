@@ -336,6 +336,18 @@
     "country": "El Salvador"
   },
   {
+    "name": "Dr. Tobias Augspurger",
+    "designation": "Electrical Grid Mapping",
+    "description": "not necessary",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/tobiasaugspurger_cropped.jpg",
+    "mail_id": "tobias.augspurger@openenergytransition.org",
+    "website_link": "",
+    "github_link": "https://github.com/Ly0n",
+    "twitter_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/tobias-augspurger-5116b6191/",
+    "country": "Germany"
+  },
+  {
     "name": "Snoopy",
     "designation": "Visionary and Head of Wellbeing",
     "description": "A highly skilled engineer with expertise in various programming languages.",
