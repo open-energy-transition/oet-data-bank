@@ -19,14 +19,14 @@ Here is an example of how to add a new team member:
 
 ```json
 {
-    "name": "Snoopy",
-    "designation": "Visionary and Head of Wellbeing",
-    "description": "A highly skilled engineer with expertise in various programming languages.",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthasnoopy_cropped.jpg",
-    "mail_id": "",
-    "website_link": "https://www.example.com/snoopy",
-    "github_link": "",
-    "twitter_link": "",
-    "linkedin_link": "",
     "country": "Germany",
+    "description": "A highly skilled engineer with expertise in various programming languages.",
+    "designation": "Visionary and Head of Wellbeing",
+    "github_link": "",   
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthasnoopy_cropped.jpg",
+    "linkedin_link": "",
+    "mail_id": "max.parzen@openenergytransition.org",
+    "name": "Snoopy","mail_id": "",
+    "twitter_link": "",
+    "website_link": "https://www.example.com/snoopy"
 }
