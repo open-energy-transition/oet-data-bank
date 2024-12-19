@@ -1,5 +1,9 @@
 exclude: ^(LICENSES)
 
+ci:
+  autoupdate_schedule: weekly
+
+
 repos:
 - repo: https://github.com/pre-commit/pre-commit-hooks
   rev: v5.0.0
@@ -7,16 +11,6 @@ repos:
   - id : check-json
   - id: pretty-format-json
     args: ['--autofix']
-
-ci:
-    autofix_commit_msg: |
-        [pre-commit.ci] auto fixes from pre-commit.com hooks
-
-        for more information, see https://pre-commit.ci
-    autofix_prs: true
-    autoupdate_branch: ''
-    autoupdate_commit_msg: '[pre-commit.ci] pre-commit autoupdate'
-    autoupdate_schedule: weekly
-    skip: []
-    submodules: false
-
+  - id: check-merge-conflict
+  - id: check-added-large-files
+    args: ['--maxkb=2000']
