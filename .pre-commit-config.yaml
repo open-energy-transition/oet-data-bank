@@ -11,4 +11,6 @@ repos:
   - id : check-json
   - id: pretty-format-json
     args: ['--autofix']
-
+  - id: check-merge-conflict
+  - id: check-added-large-files
+    args: ['--maxkb=2000']
