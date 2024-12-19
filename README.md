@@ -25,7 +25,7 @@ Here is an example of how to add a new team member:
     "github_link": "",   
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthasnoopy_cropped.jpg",
     "linkedin_link": "",
-    "mail_id": "max.parzen@openenergytransition.org",
+    "mail_id": "firstname.lastname@openenergytransition.org",
     "name": "Snoopy","mail_id": "",
     "twitter_link": "",
     "website_link": "https://www.example.com/snoopy"
