@@ -347,6 +347,20 @@
     "twitter_link": "",
     "website_link": ""
   },
+  ,
+  {
+    "country": "United Kingdom",
+    "description": "not necessary",
+    "designation": "Senior Energy Systems Modeller",
+    "github_link": "https://github.com/Cesare-Caputo",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/cesare_caputo_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/cesare-c-9b990b82/",
+    "mail_id": "cesare.caputo@openenergytransition.org",
+    "name": "Dr. Cesare Caputo",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  
   {
     "country": "Germany",
     "description": "A highly skilled engineer with expertise in various programming languages.",
