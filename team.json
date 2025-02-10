@@ -444,6 +444,18 @@
     "website_link": ""
   },
   {
+    "name": "Enrico Antonini",
+    "country": "Italy",
+    "description": "Senior energy system modeller driving climate-resilient, net-zero energy transitions through research, analysis, open data, and models.",
+    "designation": "Senior Energy Systems Modeller",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/enrico_antonini.jpg",
+    "mail_id": "enrico.antonini@openenergytransition.org",
+    "github_link": "https://github.com/eantonini",   
+    "linkedin_link": "https://www.linkedin.com/in/enricoantonini/",
+    "twitter_link": "https://x.com/Enrico_Antonini",
+    "website_link": "https://enricoantonini.com/"
+  }
+  {
     "country": "Germany",
     "description": "A highly skilled engineer with expertise in various programming languages.",
     "designation": "Visionary and Head of Wellbeing",
