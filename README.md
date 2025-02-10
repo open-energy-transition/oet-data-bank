@@ -5,8 +5,8 @@ This repository is designed to contain all team data for the OET website and han
 ## Updating Instructions
 
 1. **Add New Team Member**:
-    - Create a new object with your name, designation, and description.
-    - Add this object to the relevant data file.
+    - Modify the team.json with your name, designation, and description.
+    - Execute the `pre-commit run --all` command to verify that the new section follows the necessary json format
 
 2. **Upload Image**:
     - Upload an image of yourself to the `/people` directory.
