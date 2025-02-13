@@ -457,6 +457,18 @@
   },
   {
     "country": "Germany",
+    "description": "not necessary",
+    "designation": "Project Manager & Senior Energy Systems Modeller",
+    "github_link": "https://github.com/gincrement",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/markusgroissboeck.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/markus-groissboeck/",
+    "mail_id": "markus.groissbock@openenergytransition.org",
+    "name": "Dr. Markus Groissbock",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "Germany",
     "description": "A highly skilled engineer with expertise in various programming languages.",
     "designation": "Visionary and Head of Wellbeing",
     "github_link": "",
