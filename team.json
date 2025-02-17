@@ -466,5 +466,17 @@
     "name": "Snoopy",
     "twitter_link": "",
     "website_link": "https://www.example.com/john_doe"
+  },
+  {
+    "country": "Spain",
+    "description": "not necessary",
+    "designation": "Junior Data and Energy Systems Modeller",
+    "github_link": "https://github.com/AndreasHD11",
+    "image_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/andreashernandezdenyer/",
+    "mail_id": "andreas.denyer@openenergytransition.org",
+    "name": "Andreas Hernandez Denyer",
+    "twitter_link": "",
+    "website_link": "https://www.youtube.com/@theclimateClub"
   }
 ]
