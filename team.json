@@ -48,6 +48,18 @@
     "website_link": "https://quintincoetzee.com/"
   },
   {
+    "country": "The Netherlands",
+    "description": "not necessary",
+    "designation": "Head of Research",
+    "github_link": "https://github.com/hvanderweijde",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/harry_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/harryvanderweijde/",
+    "mail_id": "harry.vanderweijde@openenergytransition.org",
+    "name": "Dr. Harry van der Weijde",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
     "country": "Germany",
     "description": "not necessary",
     "designation": "Head of Energy and Climate System Modelling",
@@ -466,6 +478,18 @@
     "name": "Andreas Hernandez Denyer",
     "twitter_link": "",
     "website_link": "https://www.youtube.com/@theclimateClub"
+  },
+  {
+    "country": "Germany",
+    "description": "not necessary",
+    "designation": "Project Manager & Senior Energy Systems Modeller",
+    "github_link": "https://github.com/gincrement",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/markusgroissboeck.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/markus-groissboeck/",
+    "mail_id": "markus.groissbock@openenergytransition.org",
+    "name": "Dr. Markus Groissbock",
+    "twitter_link": "",
+    "website_link": ""
   },
   {
     "country": "Germany",
