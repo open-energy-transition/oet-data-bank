@@ -493,6 +493,18 @@
   },
   {
     "country": "Germany",
+    "description": "not necessary",
+    "designation": "Project Director",
+    "github_link": "https://github.com/davidefabozzi",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/davidefabozzi_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/davidefabozzi/",
+    "mail_id": "davide.fabozzi@openenergytransition.org",
+    "name": "Dr. Davide Fabozzi",
+    "twitter_link": "https://x.com/davide_fabozzi",
+    "website_link": "http://www.intrcept.blog/"
+  },
+  {
+    "country": "Germany",
     "description": "A highly skilled engineer with expertise in various programming languages.",
     "designation": "Visionary and Head of Wellbeing",
     "github_link": "",
