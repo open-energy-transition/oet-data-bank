@@ -493,6 +493,18 @@
   },
   {
     "country": "Germany",
+    "description": "Modeller focues on PtX, supply chains, sector coupling, and renewables integration.",
+    "designation": "Senior Energy Systems Modeller",
+    "github_link": "https://github.com/euronion",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/johanneshampp_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/johannes-hampp-4572b5126/",
+    "mail_id": "johannes.hampp@openenergytransition.org",
+    "name": "Dr. Johannes Hampp",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "Germany",
     "description": "not necessary",
     "designation": "Project Director",
     "github_link": "https://github.com/davidefabozzi",
@@ -502,6 +514,18 @@
     "name": "Dr. Davide Fabozzi",
     "twitter_link": "https://x.com/davide_fabozzi",
     "website_link": "http://www.intrcept.blog/"
+  },
+  {
+    "country": "Netherlands",
+    "description": "not necessary",
+    "designation": "DevSecOps Engineer",
+    "github_link": "https://github.com/stefan-oet",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/stefan.jpg",
+    "linkedin_link": "",
+    "mail_id": "stefan.radnev@openenergytransition.org",
+    "name": "Stefan Radnev",
+    "twitter_link": "",
+    "website_link": ""
   },
   {
     "country": "Germany",

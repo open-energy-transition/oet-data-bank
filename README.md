@@ -2,6 +2,14 @@
 
 This repository is designed to contain all team data for the OET website and handbook. New team members can easily be added here.
 
+
+## Python package dependencies
+
+```
+- pre-commit
+- pillow
+```
+
 ## Updating Instructions
 
 1. **Add New Team Member**:
@@ -10,7 +18,10 @@ This repository is designed to contain all team data for the OET website and han
 
 2. **Upload Image**:
     - Upload an image of yourself to the `/people` directory.
-    - Use the `crop_image.py` script located in the root directory to format your image for the website.
+    - Use the `crop-image-center.py` script located in the root directory to format your image for the website:
+    ```bash
+    python crop-image-center.py people/your_image.jpg
+    ```
     - Use the newly cropped image in the link for your profile.
 
 ## Example

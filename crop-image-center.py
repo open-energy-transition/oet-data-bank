@@ -7,6 +7,8 @@ Created on Tue Oct 19 15:08:48 2021
 """
 
 from PIL import Image
+from pathlib import Path
+import argparse
 import os
 
 
@@ -30,7 +32,7 @@ def centercrop_and_resize(path, min_size=274):
     return im_cropped
 
 
-for path in ["people/davidefabozzi.jpg"]:
+for path in ["people/markusgroissboeck.jpg"]:
     name = path.split('.')[0]
     path = os.path.join(os.getcwd(), path)
     centercrop_and_resize(path).save(name + '_cropped.jpg')
