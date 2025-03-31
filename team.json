@@ -24,6 +24,18 @@
     "website_link": ""
   },
   {
+    "country": "Germany",
+    "description": "not necessary",
+    "designation": "Head of Modelling Tools and Data, Co-founder",
+    "github_link": "https://github.com/hazemakhalek",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/hazemabdelkhalek_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/hazemakhalek/",
+    "mail_id": "hazem.abdelkhalek@openenergytransition.org",
+    "name": "Hazem Abdel-Khalek",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
     "country": "United Kingdom",
     "description": "not necessary",
     "designation": "Head of Operations and Strategy",
@@ -200,18 +212,6 @@
     "linkedin_link": "",
     "mail_id": "akshat.mittal@openenergytransition.org",
     "name": "Akshat Mittal",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
-    "country": "Germany",
-    "description": "not necessary",
-    "designation": "Expert in Sector-Coupled Energy System Modelling, Co-founder",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/hazemabdelkhalek_cropped.jpg",
-    "linkedin_link": "https://www.linkedin.com/in/hazemakhalek/",
-    "mail_id": "hazem.abdelkhalek@openenergytransition.org",
-    "name": "Hazem Abdel-Khalek",
     "twitter_link": "",
     "website_link": ""
   },
