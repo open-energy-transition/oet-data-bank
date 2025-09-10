@@ -120,6 +120,18 @@
     "website_link": ""
   },
   {
+    "country": "United Kingdom",
+    "description": "not necessary",
+    "designation": "Project Director and Senior Energy System Modeller",
+    "github_link": "https://github.com/willu47",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/will_cropped.jpg",
+    "linkedin_link": "https://uk.linkedin.com/in/willusher",
+    "mail_id": "will.usher@openenergytransition.org",
+    "name": "Dr. Will Usher",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
     "country": "Malawi",
     "description": "not necessary",
     "designation": "Senior Software Engineer",
@@ -572,18 +584,6 @@
     "linkedin_link": "",
     "mail_id": "",
     "name": "Snoopy",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
-    "country": "United Kingdom",
-    "description": "not necessary",
-    "designation": "Project Director and Senior Energy System Modeller",
-    "github_link": "https://github.com/willu47",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/will_cropped.jpg",
-    "linkedin_link": "https://uk.linkedin.com/in/willusher",
-    "mail_id": "will.usher@openenergytransition.org",
-    "name": "Dr. Will Usher",
     "twitter_link": "",
     "website_link": ""
   }
