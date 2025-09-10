@@ -128,6 +128,16 @@
     "linkedin_link": "https://uk.linkedin.com/in/willusher",
     "mail_id": "will.usher@openenergytransition.org",
     "name": "Dr. Will Usher",
+  },
+  {
+    "country": "Germany",
+    "description": "not necessary",
+    "designation": "Project Director",
+    "github_link": "https://github.com/lisazeyen/",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/lisazeyen_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/elisabeth-zeyen-9630751b3/",
+    "mail_id": "lisa.zeyen@openenergytransition.org",
+    "name": "Dr. Elisabeth Zeyen",
     "twitter_link": "",
     "website_link": ""
   },
