@@ -36,18 +36,6 @@
     "website_link": ""
   },
   {
-    "country": "United Kingdom",
-    "description": "not necessary",
-    "designation": "Head of Operations & Strategy",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/victormartinez_cropped.jpg",
-    "linkedin_link": "https://www.linkedin.com/in/victor-andres-martinez/",
-    "mail_id": "victor.martinez@openenergytransition.org",
-    "name": "Victor Martinez, MSc MBA",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
     "country": "South Africa",
     "description": "not necessary",
     "designation": "Head of People",
@@ -86,7 +74,7 @@
   {
     "country": "Latvia",
     "description": "not necessary",
-    "designation": "Finance Manager",
+    "designation": "Head of Finance",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/andris_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/andris-prindulis-34b57218b",
@@ -252,7 +240,7 @@
     "website_link": ""
   },
   {
-    "country": "Germany",
+    "country": "Denmark",
     "description": "not necessary",
     "designation": "Energy System Modeler",
     "github_link": "https://github.com/daniel-rdt",
