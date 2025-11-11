@@ -9,7 +9,6 @@ Created on Tue Oct 19 15:08:48 2021
 from PIL import Image
 from pathlib import Path
 import argparse
-import os
 
 
 def centercrop_and_resize(path, min_size=274):

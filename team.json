@@ -2,7 +2,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "CEO, Co-founder",
+    "designation": "CEO, Co-Founder",
     "github_link": "https://github.com/pz-max",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/maxparzen_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/maximilian-parzen-b047a1126/",
@@ -14,7 +14,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Head of Energy System Modelling, Co-founder",
+    "designation": "Head of Energy System Modeling, Co-Founder",
     "github_link": "https://github.com/martacki",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthamaria_cropped.jpg",
     "linkedin_link": "",
@@ -26,7 +26,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Head of Modelling Tools and Data, Co-founder",
+    "designation": "Head of Modelling Tools and Data, Co-Founder",
     "github_link": "https://github.com/hazemakhalek",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/hazem_new.jpg",
     "linkedin_link": "https://www.linkedin.com/in/hazemakhalek/",
@@ -38,12 +38,12 @@
   {
     "country": "United Kingdom",
     "description": "not necessary",
-    "designation": "Head of Operations and Strategy",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/victormartinez_cropped.jpg",
-    "linkedin_link": "https://www.linkedin.com/in/victor-andres-martinez/",
-    "mail_id": "victor.martinez@openenergytransition.org",
-    "name": "Victor Martinez MSc MBA",
+    "designation": "Head of Modeling Tools & Data, Co-Founder",
+    "github_link": "https://github.com/hazemakhalek",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/hazemabdelkhalek_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/hazemakhalek/",
+    "mail_id": "hazem.abdelkhalek@openenergytransition.org",
+    "name": "Hazem Abdel-Khalek",
     "twitter_link": "",
     "website_link": ""
   },
@@ -52,17 +52,17 @@
     "description": "not necessary",
     "designation": "Head of People",
     "github_link": "https://github.com/QuintinCoetzee-CapeTown",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/Quintin_Coetzee.png",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/Quintin_Coetzee_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/quintincoetzee/",
     "mail_id": "quintin.coetzee@openenergytransition.org",
-    "name": "Quintin Coetzee, MBSc (UCT)",
+    "name": "Quintin Coetzee, MBSc",
     "twitter_link": "",
     "website_link": "https://quintincoetzee.com/"
   },
   {
     "country": "The Netherlands",
     "description": "not necessary",
-    "designation": "Head of Research",
+    "designation": "Head of Research & Market Development",
     "github_link": "https://github.com/hvanderweijde",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/harry_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/harryvanderweijde/",
@@ -74,7 +74,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Head of Energy and Climate System Modelling",
+    "designation": "Project Manager: Climate & Energy Modeling",
     "github_link": "https://github.com/ekatef",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/ekaterinafedotova_cropped.jpg",
     "linkedin_link": "",
@@ -86,7 +86,7 @@
   {
     "country": "Latvia",
     "description": "not necessary",
-    "designation": "Finance Manager",
+    "designation": "Head of Finance",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/andris_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/andris-prindulis-34b57218b",
@@ -98,7 +98,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Senior Optimization and Energy System Modelling Expert",
+    "designation": "Senior Optimization & Energy System Modeling Expert",
     "github_link": "https://github.com/FabianHofmann",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/fabianhofmann_cropped.jpg",
     "linkedin_link": "",
@@ -110,7 +110,7 @@
   {
     "country": "Italy",
     "description": "not necessary",
-    "designation": "Expert in Global Energy System Modelling, Co-founder",
+    "designation": "Project Director: Energy & Power System Modeling, Co-Founder",
     "github_link": "https://github.com/davide-f",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/davidefioriti_cropped.jpg",
     "linkedin_link": "",
@@ -120,9 +120,33 @@
     "website_link": ""
   },
   {
+    "country": "United Kingdom",
+    "description": "not necessary",
+    "designation": "Project Director and Senior Energy System Modeler",
+    "github_link": "https://github.com/willu47",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/will_cropped.jpg",
+    "linkedin_link": "https://uk.linkedin.com/in/willusher",
+    "mail_id": "will.usher@openenergytransition.org",
+    "name": "Dr. Will Usher",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "Germany",
+    "description": "not necessary",
+    "designation": "Project Director",
+    "github_link": "https://github.com/lisazeyen/",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/lisazeyen_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/elisabeth-zeyen-9630751b3/",
+    "mail_id": "lisa.zeyen@openenergytransition.org",
+    "name": "Dr. Elisabeth Zeyen",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
     "country": "Malawi",
     "description": "not necessary",
-    "designation": "Computer Scientist & Software Engineer",
+    "designation": "Senior Software Engineer",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/siddharth.jpg",
     "linkedin_link": "",
@@ -134,7 +158,7 @@
   {
     "country": "Italy",
     "description": "not necessary",
-    "designation": "Big Data Software Developer",
+    "designation": "Software Engineer & Energy System Modeler",
     "github_link": "https://github.com/finozzifa",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/ff_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/fabrizio-finozzi/",
@@ -146,7 +170,7 @@
   {
     "country": "Italy",
     "description": "not necessary",
-    "designation": "Energy Systems Modeller",
+    "designation": "Energy System Modeler",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/danielelerede.jpg",
     "linkedin_link": "https://www.linkedin.com/in/daniele-lerede-604b84173/",
@@ -158,7 +182,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Senior Energy System Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/coroa",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/jonashoersch_cropped.jpg",
     "linkedin_link": "",
@@ -170,7 +194,7 @@
   {
     "country": "Romania",
     "description": "not necessary",
-    "designation": "Operational Support Specialist",
+    "designation": "Operations Support Specialist",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/cristina_ghimbas_cropped.jpg",
     "linkedin_link": "",
@@ -182,7 +206,7 @@
   {
     "country": "United Kingdom",
     "description": "not necessary",
-    "designation": "Senior Energy System Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/LukasFrankenQ",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/lukasfranken_cropped.jpg",
     "linkedin_link": "",
@@ -194,24 +218,12 @@
   {
     "country": "Kazakhstan",
     "description": "not necessary",
-    "designation": "Energy System Modelling Expert",
+    "designation": "Energy System Modeling Expert",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/akhmetovyerbol_cropped.jpg",
     "linkedin_link": "",
     "mail_id": "yerbol.akhmetov@openenergytransition.org",
     "name": "Yerbol Akhmetov",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
-    "country": "India",
-    "description": "not necessary",
-    "designation": "Full-Stack Developer",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/akshatmittal_cropped.jpg",
-    "linkedin_link": "",
-    "mail_id": "akshat.mittal@openenergytransition.org",
-    "name": "Akshat Mittal",
     "twitter_link": "",
     "website_link": ""
   },
@@ -228,21 +240,9 @@
     "website_link": ""
   },
   {
-    "country": "Colombia",
-    "description": "not necessary",
-    "designation": "GIS Engineer, WebGIS Research",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/ramirezbryan_cropped.jpg",
-    "linkedin_link": "https://www.linkedin.com/in/bryan-ramirez-franco/",
-    "mail_id": "bryan.ramirez@openenergytransition.org",
-    "name": "Bryan Ramirez",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
     "country": "India",
     "description": "not necessary",
-    "designation": "Energy Systems Modeller",
+    "designation": "Energy System Modeler",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/sermisha_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/sermisha-narayana-6397b2108/",
@@ -252,9 +252,9 @@
     "website_link": ""
   },
   {
-    "country": "Germany",
+    "country": "Denmark",
     "description": "not necessary",
-    "designation": "Energy Systems Modeller",
+    "designation": "Energy System Modeler",
     "github_link": "https://github.com/daniel-rdt",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/danielruedt_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/daniel-r\u00fcdt-32565b266/",
@@ -266,7 +266,7 @@
   {
     "country": "France",
     "description": "not necessary",
-    "designation": "Energy Systems Modeller",
+    "designation": "Energy System Modeler",
     "github_link": "https://github.com/tgilon",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/thomasgilon_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/thomas-gilon/",
@@ -278,7 +278,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Energy Systems Modeller",
+    "designation": "Energy System Modeler",
     "github_link": "https://github.com/virio-andreyana",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/virioandreyana.jpg",
     "linkedin_link": "https://www.linkedin.com/in/arsyan-mohamad-virio-andreyana/",
@@ -312,21 +312,9 @@
     "website_link": ""
   },
   {
-    "country": "Germany",
-    "description": "not necessary",
-    "designation": "UX/UI Designer",
-    "github_link": "",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/badawy.jpeg",
-    "linkedin_link": "https://www.linkedin.com/in/heba-badawy",
-    "mail_id": "badawy.heba@openenergytransition.org",
-    "name": "Heba Badawy",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
     "country": "Italy",
     "description": "not necessary",
-    "designation": "Marketing Specialist",
+    "designation": "Marketing Lead",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/profil_billede_Heikendorf.jpg",
     "linkedin_link": "https://www.linkedin.com/in/charlotte-heikendorf/",
@@ -338,24 +326,24 @@
   {
     "country": "Italy",
     "description": "not necessary",
-    "designation": "Energy Systems Modeller",
+    "designation": "Energy System Modeler",
     "github_link": "https://github.com/gianvito-colucci",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/gianvito_colucci_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/gianvito-colucci/",
     "mail_id": "gianvito.colucci@openenergytransition.org",
-    "name": "Gianvito Colucci",
+    "name": "Dr. Gianvito Colucci",
     "twitter_link": "",
     "website_link": ""
   },
   {
     "country": "Chile",
     "description": "not necessary",
-    "designation": "Senior Energy System Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/cdgaete",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/carlos_gaete_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/carlosgaete/",
     "mail_id": "carlos.gaete@openenergytransition.org",
-    "name": "Carlos Gaete, PhD.",
+    "name": "Carlos Gaete, PhD",
     "twitter_link": "",
     "website_link": "https://www.carlosgaete.com"
   },
@@ -367,14 +355,14 @@
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/daviddiaz_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/david-diaz-ramos-81bb73102/",
     "mail_id": "david.diaz@openenergytransition.org",
-    "name": "David D\u00edaz MSc",
+    "name": "David D\u00edaz, MSc",
     "twitter_link": "",
     "website_link": ""
   },
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Electrical Grid Mapping",
+    "designation": "Project Manager: Energy Modeling & Data Harmonization",
     "github_link": "https://github.com/Ly0n",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/tobiasaugspurger_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/tobias-augspurger-5116b6191/",
@@ -386,7 +374,7 @@
   {
     "country": "India",
     "description": "not necessary",
-    "designation": "Senior Energy System Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/Vamsipriya22",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/priya_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/vamsi-priya-goli-80558a287/",
@@ -398,7 +386,7 @@
   {
     "country": "United Kingdom",
     "description": "not necessary",
-    "designation": "Senior Energy Systems Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/Cesare-Caputo",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/cesare_caputo_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/cesare-c-9b990b82/",
@@ -410,7 +398,7 @@
   {
     "country": "Zambia",
     "description": "not necessary",
-    "designation": "Junior Data and Energy Systems Modeller",
+    "designation": "Junior Data & Energy System Modeler",
     "github_link": "https://github.com/Mwiche96",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/Mwiche_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/mwiche-simpemba-2b1628a0/",
@@ -420,9 +408,21 @@
     "website_link": ""
   },
   {
+    "country": "Zambia",
+    "description": "not necessary",
+    "designation": "Energy System Modeler",
+    "github_link": "",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/Albertprofile_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/albert-chitandula-4b9a401a8",
+    "mail_id": "albert.chitandula@openenergytransition.org",
+    "name": "Albert Chitandula",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
     "country": "Austria",
     "description": "not necessary",
-    "designation": "Senior Energy System Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/measrainsey",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/measrainseymeng.jpg",
     "linkedin_link": "",
@@ -434,24 +434,12 @@
   {
     "country": "France",
     "description": "not necessary",
-    "designation": "Senior Energy System Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/luciana-marques",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/lucianamarques_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/lu-marques/",
     "mail_id": "luciana.marques@openenergytransition.org",
     "name": "Dr. Luciana Marques",
-    "twitter_link": "",
-    "website_link": ""
-  },
-  {
-    "country": "United Kingdom",
-    "description": "Engineer with experience in plant operation and modelling energy systems",
-    "designation": "Energy System Modeller & Training Coordinator",
-    "github_link": "https://github.com/PriyeshGosai",
-    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/priyesh_gosai_cropped.jpg",
-    "linkedin_link": "https://www.linkedin.com/in/gosaip/",
-    "mail_id": "priyesh.gosai@openenergytransition.org",
-    "name": "Priyesh Gosai",
     "twitter_link": "",
     "website_link": ""
   },
@@ -469,8 +457,8 @@
   },
   {
     "country": "Italy",
-    "description": "Senior energy system modeller driving climate-resilient, net-zero energy transitions through research, analysis, open data, and models.",
-    "designation": "Senior Energy Systems Modeller",
+    "description": "not necessary",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/eantonini",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/enrico_antonini.png",
     "linkedin_link": "https://www.linkedin.com/in/enricoantonini/",
@@ -482,7 +470,7 @@
   {
     "country": "Spain",
     "description": "not necessary",
-    "designation": "Junior Data and Energy Systems Modeller",
+    "designation": "Junior Data & Energy System Modeler",
     "github_link": "https://github.com/AndreasHD11",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/Cropped_Andreas.jpg",
     "linkedin_link": "https://www.linkedin.com/in/andreashernandezdenyer/",
@@ -494,7 +482,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Project Manager & Senior Energy Systems Modeller",
+    "designation": "Project Manager & Senior Energy System Modeler",
     "github_link": "https://github.com/gincrement",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/markusgroissboeck_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/markus-groissboeck/",
@@ -505,8 +493,8 @@
   },
   {
     "country": "Germany",
-    "description": "Modeller focues on PtX, supply chains, sector coupling, and renewables integration.",
-    "designation": "Senior Energy Systems Modeller",
+    "description": "not necessary",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/euronion",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/johanneshampp_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/johannes-hampp-4572b5126/",
@@ -518,7 +506,7 @@
   {
     "country": "Germany",
     "description": "not necessary",
-    "designation": "Project Director",
+    "designation": "Project Director: Energy & Power System Modeling",
     "github_link": "https://github.com/davidefabozzi",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/davidefabozzi_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/davidefabozzi/",
@@ -526,6 +514,18 @@
     "name": "Dr. Davide Fabozzi",
     "twitter_link": "https://x.com/davide_fabozzi",
     "website_link": "http://www.intrcept.blog/"
+  },
+  {
+    "country": "Switzerland",
+    "description": "not necessary",
+    "designation": "Project Director",
+    "github_link": "https://github.com/timtroendle",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/timtroendle_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/timtroendle/",
+    "mail_id": "tim.troendle@openenergytransition.org",
+    "name": "Dr. Tim Tr\u00f6ndle",
+    "twitter_link": "",
+    "website_link": ""
   },
   {
     "country": "Netherlands",
@@ -542,7 +542,7 @@
   {
     "country": "Peru",
     "description": "not necessary",
-    "designation": "Senior Energy Systems Modeller",
+    "designation": "Senior Energy System Modeler",
     "github_link": "https://github.com/lprieto1409",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/luisprieto_cropped.jpg",
     "linkedin_link": "https://www.linkedin.com/in/luis-prieto5313/",
@@ -552,9 +552,45 @@
     "website_link": ""
   },
   {
+    "country": "Switzerland",
+    "description": "not necessary",
+    "designation": "Machine Learning Engineer",
+    "github_link": "https://github.com/ElectricMountains",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/anonymous_cropped.jpg",
+    "linkedin_link": "https://www.linkedin.com/in/ksteijn/",
+    "mail_id": "kevin.steijn@openenergytransition.org",
+    "name": "Kevin Steijn",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "United Kingdom",
+    "description": "not necessary",
+    "designation": "Senior Energy System Modeler",
+    "github_link": "https://github.com/brynpickering",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/bryn.jpg",
+    "linkedin_link": "http://linkedin.com/brynpickering",
+    "mail_id": "bryn.pickering@openenergytransition.org",
+    "name": "Dr. Bryn Pickering",
+    "twitter_link": "",
+    "website_link": "https://www.brynpickering.com"
+  },
+  {
+    "country": "United States",
+    "description": "not necessary",
+    "designation": "Senior Energy System Modeler",
+    "github_link": "https://github.com/apigott",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/aisling_cropped.jpg",
+    "linkedin_link": "http://linkedin.com/aisling-pigott-colorado",
+    "mail_id": "aisling.pigott@openenergytransition.org",
+    "name": "Dr. Aisling Pigott",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
     "country": "Germany",
-    "description": "A highly skilled engineer with expertise in various programming languages.",
-    "designation": "Visionary and Head of Wellbeing",
+    "description": "not necessary",
+    "designation": "Visionary, Head of Wellbeing",
     "github_link": "",
     "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/marthasnoopy_cropped.jpg",
     "linkedin_link": "",
