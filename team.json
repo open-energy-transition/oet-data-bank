@@ -574,5 +574,53 @@
     "name": "Snoopy",
     "twitter_link": "",
     "website_link": ""
+  },
+  {
+    "country": "Indonesia",
+    "description": "not necessary",
+    "designation": "",
+    "github_link": "https://github.com/mikoding9",
+    "image_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/mikoding/",
+    "mail_id": "jatmiko.herjati@openenergytransition.org",
+    "name": "Jatmiko Herjati",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "The Netherlands",
+    "description": "not necessary",
+    "designation": "",
+    "github_link": "https://github.com/clizbe",
+    "image_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/laurenclisby/",
+    "mail_id": "lauren.clisby@openenergytransition.org",
+    "name": "Lauren Clisby",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "Japan",
+    "description": "not necessary",
+    "designation": "",
+    "github_link": "https://github.com/shantiii",
+    "image_link": "",
+    "linkedin_link": "https://www.linkedin.com/in/shanti-chellaram-495444187/",
+    "mail_id": "shanti.chellaram@openenergytransition.org",
+    "name": "Shanti Chellaram",
+    "twitter_link": "",
+    "website_link": ""
+  },
+  {
+    "country": "Namibia",
+    "description": "not necessary",
+    "designation": "",
+    "github_link": "https://github.com/JodieBarnard",
+    "image_link": "",
+    "linkedin_link": "https://linkedin.com/in/jodie-barnard-a9bb92219",
+    "mail_id": "jodie.barnard@openenergytransition.org",
+    "name": "Jodie-Lee Barnard",
+    "twitter_link": "",
+    "website_link": ""
   }
 ]
