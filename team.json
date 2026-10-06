@@ -622,5 +622,17 @@
     "name": "Jodie-Lee Barnard",
     "twitter_link": "",
     "website_link": ""
+  },
+  {
+    "country": "Mexico",
+    "description": "not necessary",
+    "designation": "",
+    "github_link": "https://github.com/Laura-Merodio",
+    "image_link": "https://raw.githubusercontent.com/open-energy-transition/oet-data-bank/master/people/Laura-Merodio.jpg",
+    "linkedin_link": "",
+    "mail_id": "laura.merodio@openenergytransition.org",
+    "name": "Laura Merodio",
+    "twitter_link": "",
+    "website_link": ""
   }
 ]
